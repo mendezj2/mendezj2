@@ -76,7 +76,7 @@ Designed and developed a mobile app prototype using **AI-assisted development** 
 
 ### 🤝 Connect with Me
 
-[💼 LinkedIn](www.linkedin.com/in/jesse-mendez03)  
+[💼 LinkedIn](https://www.linkedin.com/in/jesse-mendez03/))  
 
 <!--📫 Email: **YOUR_EMAIL@wisc.edu**-->
 
