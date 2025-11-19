@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Jesse Mendez
 
-🎓 **Data Science + Computer Science** @ University of Wisconsin–Madison  
+🎓 **Data Science + Information Science w/Computer Science Certificate** @ University of Wisconsin–Madison  
 📍 Based in Madison, WI  
 💡 Interested in **Data Engineering, Distributed Systems, AI/ML, and Full-Stack Development**
 
