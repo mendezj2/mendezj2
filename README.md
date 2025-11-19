@@ -61,13 +61,13 @@ Here are some ideas to get you started:
 
 ### 📌 Featured Projects
 
-🌦 **Weather Data Streaming Pipeline — Distributed Ingestion & Analytics**  
+<!--🌦 **Weather Data Streaming Pipeline — Distributed Ingestion & Analytics**  
 Engineered a Kafka-based data pipeline to process **100,000+ daily weather records** for scalable reporting and analysis. Developed a **Python Kafka Producer** with Protobuf for real-time structured messaging and a **Kafka Consumer** to batch records into **Parquet files on HDFS**, enabling efficient downstream analytics. Containerized the system using **Docker** for reproducible deployment across environments.  
 **Tech:** Kafka, Protobuf, HDFS, Parquet, Docker, Python, Linux
 
 🏫 **Wisconsin Schools Big Data Analysis — Cloud ETL & Geographic Insights**  
 Cleaned and analyzed **2,300+ school records** to improve statewide data quality and accessibility. Developed ETL workflows to load datasets into **Google Cloud Storage and BigQuery via Dataform**, applying SQL transformations to perform aggregations and geographic joins. Produced county-level insights to support regional comparisons in education outcomes.  
-**Tech:** BigQuery, GCS, Dataform, SQL, Jupyter Notebook, Python
+**Tech:** BigQuery, GCS, Dataform, SQL, Jupyter Notebook, Python-->
 
 🌱 **Grow Together — Social Hangout App Prototype (Hackathon Project)**  
 Designed and developed a mobile app prototype using **AI-assisted development** to encourage consistent group meetups through shared bucket lists and a visual reward garden. Collaborated on user flows, feature prompt-engineering, and rapid UI generation to validate the concept during a 24-hour hackathon. Built with **React Native, Expo, and TypeScript**.
