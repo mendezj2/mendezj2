@@ -72,12 +72,11 @@ Cleaned and analyzed **2,300+ school records** to improve statewide data quality
 🌱 **Grow Together — Social Hangout App Prototype (Hackathon Project)**  
 Designed and developed a mobile app prototype using **AI-assisted development** to encourage consistent group meetups through shared bucket lists and a visual reward garden. Collaborated on user flows, feature prompt-engineering, and rapid UI generation to validate the concept during a 24-hour hackathon. Built with **React Native, Expo, and TypeScript**.
 
-🔭 **Machine Learning Gyrochronology Age Estimator — Astronomy ML Research (Prospective Project)**  
-Aspiring to contribute to an open-source Python package that estimates stellar ages using gyrochronology and machine learning. The project integrates **Gaia DR3**, **TESS**, and **ZTF** data, computes stellar rotation periods from light curves using methods like **Lomb–Scargle periodograms**, and trains ML models to predict stellar ages with uncertainty quantification.  
-*Tech:* Python, astroquery, astropy, lightkurve, scikit-learn, PyTorch
 
-
----
+🤖 **PolarisCapital Analytics — Astronomy & Finance ML Lab**  
+PolarisCapital Analytics is a dual-domain analytics platform for exploring **stellar data** and **financial markets** with classical machine learning and rich dashboards. It is designed to support real CSV uploads, automatic schema inference, XGBoost and LightGBM models, clustering, anomaly detection, and 15+ interactive dashboards for risk, portfolios, sky maps, and more. I designed the overall idea, architecture, and dashboard/layout structure, then used modern AI coding tools to generate the initial implementation as a starting point for my own learning. The codebase now serves as an open-source **skeleton / lab** that I plan to gradually rebuild and extend by hand as I study ML, data engineering, and visualization more deeply.  
+Built with **Python, Flask, scikit-learn, XGBoost, LightGBM, pandas, NumPy, Kafka concepts, Snowflake-style schemas, Airflow / Prefect hooks, HTML, CSS, JavaScript**  
+🔗 [Repository](https://github.com/mendezj2/polariscapital-analytics)
 
 ### 🤝 Connect with Me
 
