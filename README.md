@@ -79,9 +79,7 @@ Built with **Python, Flask, scikit-learn, XGBoost, LightGBM, pandas, NumPy, Kafk
 
 🔗 [Repository](https://github.com/mendezj2/polariscapital-analytics)
 
-### 🤝 Connect with Me
 
-[💼 LinkedIn](https://www.linkedin.com/in/jesse-mendez03/))  
 
 <!--📫 Email: **YOUR_EMAIL@wisc.edu**-->
 
